@@ -1,2 +1,2 @@
 # LIU
-print 'Hello'
+Welcome!
